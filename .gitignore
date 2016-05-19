@@ -1,0 +1,48 @@
+*.class
+*.pyc
+*.py0
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.hypothesis/
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Sphinx documentation
+docs/_build/
+
+# IPython Notebook
+.ipynb_checkpoints
+
+# dotenv
+.env
+
+# Customized for this project
+*~
+log/
+.classpath
+.project
+.settings/
+.idea/
+.DS_Store
+target/
+*.csv
+*.dat
+*.pkl
+*.npy
+*.out
+*.log
